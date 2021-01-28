@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="GradleLocalSettings">
+    <option name="projectSyncType">
+      <map>
+        <entry key="$USER_HOME$/projects/kunlabora/kunlaboratorium-aws-lambda-text2speech" value="PREVIEW" />
+        <entry key="$USER_HOME$/projects/kunlabora/processing-intellij" value="PREVIEW" />
+        <entry key="$USER_HOME$/projects/practice projects/ProductivityWithShortcuts" value="PREVIEW" />
+        <entry key="$USER_HOME$/projects/practice projects/coderetreat-java8" value="PREVIEW" />
+        <entry key="$USER_HOME$/projects/sparkcentral/conversation-open-api" value="PREVIEW" />
+        <entry key="$USER_HOME$/projects/sparkcentral/extension-core" value="PREVIEW" />
+        <entry key="$USER_HOME$/projects/sparkcentral/fb-extension" value="PREVIEW" />
+        <entry key="$USER_HOME$/projects/sparkcentral/iam-extension" value="PREVIEW" />
+        <entry key="$USER_HOME$/projects/sparkcentral/instagram-extension" value="PREVIEW" />
+        <entry key="$USER_HOME$/projects/sparkcentral/performance-extension" value="PREVIEW" />
+        <entry key="$USER_HOME$/projects/sparkcentral/performance-scenarios" value="PREVIEW" />
+        <entry key="$USER_HOME$/projects/sparkcentral/queue-context" value="PREVIEW" />
+        <entry key="$USER_HOME$/projects/sparkcentral/sparkcentral-gradle-plugin" value="PREVIEW" />
+        <entry key="$USER_HOME$/projects/sparkcentral/sparkcentral-starter" value="PREVIEW" />
+        <entry key="$USER_HOME$/projects/sparkcentral/twit-extension" value="PREVIEW" />
+        <entry key="$USER_HOME$/ws/agileTraining/tdd-course-exercise-2/java" value="PREVIEW" />
+        <entry key="$USER_HOME$/ws/kunlabora - sparkcentral/extension-core" value="PREVIEW" />
+        <entry key="$USER_HOME$/ws/kunlabora - sparkcentral/smooch-extension" value="PREVIEW" />
+        <entry key="$USER_HOME$/ws/kunlabora - sparkcentral/spike-outbound-sms" value="PREVIEW" />
+        <entry key="$USER_HOME$/ws/sparkcentral/contact-context" value="PREVIEW" />
+        <entry key="$USER_HOME$/ws/sparkcentral/conversation-context-jvm" value="PREVIEW" />
+        <entry key="$USER_HOME$/ws/sparkcentral/proactive-messaging" value="PREVIEW" />
+        <entry key="$USER_HOME$/ws/sparkcentral/webhook-proxy" value="PREVIEW" />
+        <entry key="$USER_HOME$/ws/undercover" value="PREVIEW" />
+      </map>
+    </option>
+  </component>
+  <component name="NodePackageJsonFileManager">
+    <packageJsonPaths />
+  </component>
+</project>

@@ -1,0 +1,9 @@
+<component name="ProjectCodeStyleConfiguration">
+  <code_scheme name="Project" version="173">
+    <TypeScriptCodeStyleSettings version="0">
+      <option name="FIELD_PREFIX" value="" />
+      <option name="PREFER_EXPLICIT_TYPES_FUNCTION_RETURNS" value="true" />
+      <option name="PREFER_EXPLICIT_TYPES_FUNCTION_EXPRESSION_RETURNS" value="true" />
+    </TypeScriptCodeStyleSettings>
+  </code_scheme>
+</component>
